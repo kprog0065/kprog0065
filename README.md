@@ -4,7 +4,7 @@ I'm a blockchain developer with experience in Solidity, Move/Sui, MERN stack, an
 
 ## 🚀 My Projects
 
---**Online Learning Platforms:** [online-learning-platforms](https://github.com/kprog0065-online-learning-platforms) 
+- **Online Learning Platforms:** [online-learning-platforms](https://github.com/kprog0065-online-learning-platforms) 
 - **College Coursework:** [gbc-coursework](https://github.com/kprog0065-gbc-coursework)
 - **Web3 Bootcamp:** [web3-bootcamp](https://github.com/kprog0065-metana-web3-bootcamp)
 - **Hackathons:** [hackathon-projects](https://github.com/kprog0065-hackathon-projects)
