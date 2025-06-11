@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there I'm Kevon👋
 
-<!--
-**kprog0065/kprog0065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a blockchain developer with experience in Solidity, Move/Sui, MERN stack, and cloud deployment. 
 
-Here are some ideas to get you started:
+## 🚀 My Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **College Coursework:** [gbc-coursework](https://github.com/gbc-coursework)
+- **Web3 Bootcamp:** [web3-bootcamp](https://github.com/web3-bootcamp)
+- **Hackathons:** [hackathon-projects](https://github.com/hackathon-projects)
+
+## Skills
+
+- Blockchain Development (Solidity, Move/Sui)
+- Fullstack Web Development (MERN)
+- Cloud Infrastructure (AWS, Azure)
+
+## 🔗 Connect with Me
+
+[LinkedIn](#) | [Twitter](#)
